@@ -15,5 +15,6 @@ ejercicios-JavaScript/
 ├── calcularPrecio/ Funcion que recibe: precioBase, Descuento, Iva y returna el precio final 
 ├── saludar/ Se hacen funciones para saludar un usuario con su edad 
 ├── seguridadLogin/ Ejercicio que busca permitir a un usuario ingresar, sólo con el usuario y contraseña correctos
+├── funcionesFlecha/ ejercicio utilizando funciones flecha con sintaxis correcta
 └── README.md
 
