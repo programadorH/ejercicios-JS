@@ -16,5 +16,7 @@ ejercicios-JavaScript/
 ├── saludar/ Se hacen funciones para saludar un usuario con su edad 
 ├── seguridadLogin/ Ejercicio que busca permitir a un usuario ingresar, sólo con el usuario y contraseña correctos
 ├── funcionesFlecha/ ejercicio utilizando funciones flecha con sintaxis correcta
+├── arrays/ Metodos fundamentales de los arrays
+├── filter/ Se filtra un arreglo usando el metodo .filter que valida una condicion
 └── README.md
 
