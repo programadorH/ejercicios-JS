@@ -18,5 +18,8 @@ ejercicios-JavaScript/
 ├── funcionesFlecha/ ejercicio utilizando funciones flecha con sintaxis correcta
 ├── arrays/ Metodos fundamentales de los arrays
 ├── filter/ Se filtra un arreglo usando el metodo .filter que valida una condicion
+├── desestructuracion/ Desestructuración de objetos en arrays 
+├── inventarioBiblioteca/ utilización de Metodos de arreglos y desestructuración 
+├── metodosPushShift/ Utilización de métodos de arrays
 └── README.md
 
