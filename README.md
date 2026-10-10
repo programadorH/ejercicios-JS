@@ -21,5 +21,6 @@ ejercicios-JavaScript/
 ├── desestructuracion/ Desestructuración de objetos en arrays 
 ├── inventarioBiblioteca/ utilización de Metodos de arreglos y desestructuración 
 ├── metodosPushShift/ Utilización de métodos de arrays
+├──spreadOperator/ Utilización de métodos avanzados y desestructuración de arreglos con spread operator e inmutabilidad
 └── README.md
 
