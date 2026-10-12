@@ -10,6 +10,8 @@ La carpeta principal contiene subcarpetas independientes para cada ejercicio res
 
 ```text
 ejercicios-JavaScript/
+
+├── condicionales/ se crea un programa que muestra diferentes precios de acuerdo al tipo de descuento utilizado
 ├── calculadora/ Se realizan cuatro funciones para realizar cuatro operaciones básicas: sumar, restar, multiplicar, dividir
 ├── calcularEdad/ Partiendo del año de nacimiento se le dice al usuario si es mayor o menos de edad 
 ├── calcularPrecio/ Funcion que recibe: precioBase, Descuento, Iva y returna el precio final 
