@@ -25,5 +25,6 @@ ejercicios-JavaScript/
 ├── metodosPushShift/ Utilización de métodos de arrays
 ├── spreadOperator/ Utilización de métodos avanzados y desestructuración de arreglos con spread operator e inmutabilidad
 ├── reporteClima/ Ejercicios de desestructuración de arrays y objetos con .filter y .map
+├── dom/ Ejercicios basicos de manipulación del DOM para añadir, eliminar o alternar
 └── README.md
 
