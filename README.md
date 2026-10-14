@@ -15,6 +15,8 @@ ejercicios-JavaScript/
 ├── calculadora/ Se realizan cuatro funciones para realizar cuatro operaciones básicas: sumar, restar, multiplicar, dividir
 ├── calcularEdad/ Partiendo del año de nacimiento se le dice al usuario si es mayor o menos de edad 
 ├── calcularPrecio/ Funcion que recibe: precioBase, Descuento, Iva y returna el precio final 
+├── ciclos/ Se realiza un sistema para que el usuario adivine un número utilizando un ciclo do-while
+├── genioLampara/ Utilizando un ciclo do while creamos un sistema donde el usuario tiene tres posibilidades distintas
 ├── saludar/ Se hacen funciones para saludar un usuario con su edad 
 ├── seguridadLogin/ Ejercicio que busca permitir a un usuario ingresar, sólo con el usuario y contraseña correctos
 ├── funcionesFlecha/ ejercicio utilizando funciones flecha con sintaxis correcta
